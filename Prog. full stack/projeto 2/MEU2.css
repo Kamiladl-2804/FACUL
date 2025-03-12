@@ -1,0 +1,7 @@
+h1 {font-family: 'Times New Roman', Times, serif;}
+body {background-color: rgb(149, 230, 149);}
+p {font-family: 'Times New Roman', Times, serif;}
+p {color: rgb(255, 255, 255);}
+a:hover {color: red;text-decoration: underline;}
+.destaque {color:red;}
+#titulo-principal {color:blueviolet; font-size: bold;}
